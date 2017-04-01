@@ -1,0 +1,30 @@
+--- main.asm
+--- cst34m97.inc
+--- blestack97.inc
+--- blerec.inc
+--- def.inc
+--- led_mapping_user.inc
+--- led_mapping_cs.inc
+--- cs_function_io.inc
+--- ble_stack.asm
+--- ble_api.asm
+--- cs_function_io.asm
+--- cs_interrupt.asm
+--- cs_uart_rec_data.asm
+--- cs_led_drv.asm
+--- cs_led_mapping.asm
+--- cs_led_app.asm
+--- cs_math.asm
+--- cs_initial.asm
+--- cs_ad.asm
+--- cs_scale.asm
+--- cs_weight.asm
+--- cs_time.asm
+--- cs_1180_com.asm
+生成Hex文件.
+
+目标器件 :CST34M97
+CodeOption  : CodeOption0:0x0001;
+Checksum : FE5E
+D:\desktop\20170301-JB蓝牙人体秤\程序\BodyScale\//Main.asm
+共用程序空间 ：2542×16 bits ( 31.03% )
