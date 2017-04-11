@@ -25,6 +25,6 @@
 
 目标器件 :CST34M97
 CodeOption  : CodeOption0:0x0001;
-Checksum : FE5E
-D:\desktop\20170301-JB蓝牙人体秤\程序\BodyScale\//Main.asm
-共用程序空间 ：2542×16 bits ( 31.03% )
+Checksum : A92C
+E:\github\body_scale\BodyScale\//Main.asm
+共用程序空间 ：2543×16 bits ( 31.04% )

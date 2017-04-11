@@ -37,7 +37,8 @@
 			Path=".\\blerec.inc"
 			Path=".\\ble_api.asm"
 			Path=".\\Main.asm"
-			State="0,0,0"
+			Path=".\\CS_ad.asm"
+			State="70,2065,2065"
 		</OpenFiles>
 		<OpenFolders>
 			<{B928CA73-502F-435D-B345-000A9082CB26}>

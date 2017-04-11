@@ -11,9 +11,9 @@ ECHO					= @echo //-------------------------------------------------------------
 ###################################################
 #编译选项定义处
 ###################################################
-OUTPUT_DIR            = D:\desktop\20170301-JB蓝牙人体秤\程序\BodyScale\.\Release
+OUTPUT_DIR            = E:\github\body_scale\BodyScale\.\Release
 SOURCE_MAIN_FILE_NAME = Main
-SOURCE_MAIN_FILE_PATH = D:\desktop\20170301-JB蓝牙人体秤\程序\BodyScale\/
+SOURCE_MAIN_FILE_PATH = E:\github\body_scale\BodyScale\/
 GENERATE_DAT_FILE			= 1
 BODY_NAME							= CST34M97
 INST_TYPE							= 1
